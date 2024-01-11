@@ -1,4 +1,6 @@
-﻿// currentLife / maxLife
+﻿// Hunting the Manticore
+
+// currentLife / maxLife
 int[] manticoreLife = [10, 10];
 int[] consolasLife = [15, 15];
 int round = 1;
